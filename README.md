@@ -1,1 +1,2 @@
-# dats6401
+Image Classification of Histopathology Images Using Built In Algorithms
+The histology images themselves are massive (in terms of image size on disk and spatial dimensions when loaded into memory), so in order to make the images easier for us to work with them, Paul Mooney, part of the community advocacy team at Kaggle, converted the dataset to 50×50 pixel image patches and then uploaded the modified dataset directly to the Kaggle dataset archive. 
